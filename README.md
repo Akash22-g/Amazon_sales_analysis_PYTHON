@@ -43,7 +43,6 @@ Through this analysis, I practiced data cleaning, exploratory data analysis (EDA
 ## Project Files
 
 - `Amazon_Sales_Report_Analysis.ipynb`
-- `Amazon Sale Report.csv`
 - `README.md`
 
 ---
