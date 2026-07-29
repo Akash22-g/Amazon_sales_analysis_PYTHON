@@ -51,19 +51,19 @@ Through this analysis, I practiced data cleaning, exploratory data analysis (EDA
 
 ### Dataset Preview
 
-![Dataset](dataset.png)
+![Dataset](Dataset_overview.png)
 
-### Data Cleaning
+### Data Preview
 
-![Cleaning](cleaning.png)
+![Preview](Dataset_preview.png)
 
-### Sales Analysis
+### Size Chart
 
-![Sales Analysis](sales_analysis.png)
+![Size_Chart](Size_chart.png)
 
 ### Data Visualization
 
-![Visualization](visualization.png)
+![Visualization](Statewise_distribution.png)
 
 ---
 
